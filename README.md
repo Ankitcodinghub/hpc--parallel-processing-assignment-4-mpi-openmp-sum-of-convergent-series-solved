@@ -1,0 +1,1 @@
+# hpc--parallel-processing-assignment-4-mpi-openmp-sum-of-convergent-series-solved
